@@ -1,1 +1,169 @@
-{"version": "1.0.8", "url": "https://github.com/blindtechvisionary/youtube_downloader_plus/releases/download/1.0.8/YouTubeDownloaderPlus_1.0.8_Setup.exe", "message": "This is version 1.0.8"}
+{"version": "1.0.8", "url": "https://github.com/blindtechvisionary/youtube_downloader_plus/releases/download/1.0.8/YouTubeDownloaderPlus_1.0.8_Setup.exe", "message": "================================================================================
+        YOUTUBE DOWNLOADER PLUS - CHANGELOG v1.0.7
+================================================================================
+
+Release: Version 1.0.7 (Updated from Version 1.0.5)
+
+Overview:
+--------------------------------------------------------------------------------
+YouTube Downloader Plus for Windows has been updated to version 1.0.7. This
+release introduces several major new features, resolves critical bugs present
+in previous versions, and delivers significant improvements to overall
+stability and user experience.
+
+
+================================================================================
+NEW KEY FEATURES
+================================================================================
+
+--------------------------------------------------------------------------------
+1. VIDEO COMMENTS INTERFACE
+--------------------------------------------------------------------------------
+
+In version 1.0.5 and earlier, the video comments feature was non-functional.
+With this update, the comments retrieval system has been completely rebuilt
+and is now fully stable.
+
+Key Highlights:
+  - Fetch all available comments for any video, regardless of volume, even
+    for videos with millions of comments.
+  - Filter comments by "Recent" or "Popular," consistent with YouTube's
+    native sorting options.
+  - Search comments by author name or keyword.
+  - Copy individual comments or export the entire comments list for
+    convenient offline access.
+  - The comments list displays each comment along with its author name,
+    timestamp, and other relevant details.
+  - When you select or navigate to a comment using the mouse or keyboard,
+    the full comment text is displayed in a dedicated text box.
+  - When you reach the end of the loaded comments list via keyboard or
+    mouse navigation, the next batch of 100 comments is automatically
+    fetched and appended.
+
+How to Use:
+  - Press CTRL+SHIFT+J, or navigate to the Video Options menu and open
+    the Video Comments section while a video is playing.
+
+
+--------------------------------------------------------------------------------
+2. TRANSCRIPTS / SUBTITLES / CAPTIONS
+--------------------------------------------------------------------------------
+
+In version 1.0.5 and earlier, AI-generated transcriptions and YouTube's
+official transcriptions were introduced as a demonstration. This version
+delivers a significantly more advanced and fully functional transcript
+retrieval system.
+
+Key Highlights:
+  - Retrieve both automatically generated and manually authored transcripts.
+  - Support for all available transcript languages associated with a video.
+  - All available languages are populated in a dropdown menu for easy
+    selection (e.g., "Hindi - Automatically Generated").
+  - Copy or export transcripts for convenient offline access and use.
+  - This feature has been tested with the MrBeast YouTube channel, which
+    offers transcripts in more than 20 languages.
+
+How to Use:
+  - Press CTRL+SHIFT+T, or navigate to the Video Options menu and open
+    the Transcripts section.
+  - Select the desired language from the dropdown menu.
+  - Click "Load Transcripts" to retrieve and display the transcript.
+
+
+--------------------------------------------------------------------------------
+3. FACEBOOK DOWNLOADER TOOL (DEMONSTRATION)
+--------------------------------------------------------------------------------
+
+As part of the ongoing goal to evolve this application into a cross-platform
+media downloader, a Facebook video downloader has been introduced in version
+1.0.7 as a demonstration feature.
+
+Key Highlights:
+  - Download videos directly from Facebook.
+  - Option to download as MP3 audio.
+  - Eliminates the need to search the internet for a trustworthy third-party
+    downloading service.
+
+How to Use:
+  - Open the "More Tools" menu using the ALT key or ALT+M from the main
+    interface.
+  - Navigate to "Facebook Downloader" and open the tool.
+  - Enter or paste the Facebook video link.
+  - Check "Download as MP3 Audio" if an audio-only download is desired.
+  - Click "Download and Save."
+
+
+--------------------------------------------------------------------------------
+4. MEDIA PLAYER ENHANCEMENTS
+--------------------------------------------------------------------------------
+
+Several new keyboard shortcuts and improvements have been added to the
+built-in media player.
+
+  a) Playback Speed Control:
+     - Press "F" to increase the playback rate by 0.1x
+       (e.g., from 1.1x to 1.2x).
+     - Press "S" to decrease the playback rate by 0.1x.
+
+  b) Total Duration Information:
+     - Press "T" to retrieve and announce the total duration of the
+       currently playing audio or video.
+
+  c) Elapsed Time Information:
+     - Press "C" to retrieve and announce the elapsed playback time of
+       the current media.
+
+  d) Full Screen Bug Fix:
+     - In previous versions, pressing the Enter key would activate full
+       screen mode for both audio and video streams. This was an unintended
+       behavior, as full screen mode is not applicable to audio-only
+       streams. This issue has been corrected; full screen mode is now
+       available only for video streams.
+
+
+================================================================================
+BUG FIXES
+================================================================================
+
+  - Resolved media playback issues that caused interruptions and errors
+    during audio and video streaming.
+  - Fixed UI freezing issues that caused the application to become
+    unresponsive during certain operations.
+  - Addressed downloading errors that prevented successful file saves
+    under specific conditions.
+
+
+================================================================================
+ADDITIONAL IMPROVEMENTS
+================================================================================
+
+  - Dynamic Search Results Window Title:
+    After performing a search, the search results window title now reflects
+    the query that was entered. For example, searching for "English grammar
+    lesson" will set the window title to:
+    "English grammar lesson - YouTube Search"
+    This enhancement improves navigation and context awareness when working
+    with multiple windows.
+
+  - Search Results Playback:
+    In the search results window, double-clicking or selecting a video in
+    the results list will begin video playback. To play the content as
+    audio only, press CTRL+ENTER or click the "Play as Audio" button.
+
+
+================================================================================
+CLOSING NOTES
+================================================================================
+
+These are the key changes, updates, and feature additions included in
+version 1.0.7. Future releases will continue to introduce further
+improvements and enhance your overall experience with the application.
+
+Stay connected with us for upcoming updates. If you find this application
+useful, please share it with others to support future development.
+
+Thank you for using YouTube Downloader Plus.
+
+Application Developer: Sujan Rai
+
+================================================================================"}
